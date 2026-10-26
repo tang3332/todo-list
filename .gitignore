@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# 本地验证脚本与个人笔记，不随仓库提交
+scripts/
+讲解稿.md
